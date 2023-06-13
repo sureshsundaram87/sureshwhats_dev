@@ -1,4 +1,4 @@
-suresh dev
+suresh developing a messenger chat
 
 1.chat screen
 2.welcome screen
